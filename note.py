@@ -1,1 +1,2 @@
-HI
+def add():
+    return 2 + 2
